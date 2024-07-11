@@ -1,5 +1,4 @@
 import {Button, Card, List} from "@telegram-apps/telegram-ui";
-import {CardChip} from "@telegram-apps/telegram-ui/dist/components/Blocks/Card/components/CardChip/CardChip";
 import {CardCell} from "@telegram-apps/telegram-ui/dist/components/Blocks/Card/components/CardCell/CardCell";
 import {ProductModel} from "../../models/product.model.ts";
 
