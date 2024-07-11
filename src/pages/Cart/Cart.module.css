@@ -1,0 +1,6 @@
+.cartContent {
+  height: calc(100vh - 42px);
+  background: var(--tgui--bg_color);
+  padding: 10px;
+}
+

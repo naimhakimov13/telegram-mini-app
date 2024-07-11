@@ -1,4 +1,13 @@
 * {
   padding: 0;
   margin: 0;
+  font-family: 'Roboto', sans-serif;
+}
+
+.slick-dots li button:before {
+  color: var(--tgui--text_color);
+}
+
+.slick-dots li.slick-active button:before {
+  color: var(--tgui--link_color);
 }

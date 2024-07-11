@@ -1,4 +1,14 @@
 {
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@/*": ["src/*"],
+      "@components/*": ["src/components/*"],
+      "@pages/*": ["src/components/pages/*"],
+      "@assets/*": ["src/assets/*"]
+    }
+  },
+  "include": ["src"],
   "files": [],
   "references": [
     {
